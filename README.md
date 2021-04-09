@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm John Paul! o/
+
+I'm a full-stack developer and general maker of things. If you want see my work in action, check out [my web projects](https://www.jpcode.dev)! 
 
 <!--
 **John-Paul-R/John-Paul-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
